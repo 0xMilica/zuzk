@@ -1,2 +1,2 @@
 # zuzk
-A place for Zuzalu ZK events
+A place for Zuzalu ZK events ✨
